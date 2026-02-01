@@ -5,9 +5,4 @@ package de.aurexion.CoreAPI;
  */
 public interface CorePlugin {
 
-    /**
-     * Get variables service instance
-     * @return Variables service for data persistence
-     */
-    Variables getVariables();
 }
